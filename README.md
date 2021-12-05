@@ -3,7 +3,7 @@
 
 - Appstore: https://apps.apple.com/es/app/tamogante/id1537266465
 
-- PlayStore: https://play.google.com/store/apps/det
+- PlayStore: https://play.google.com/store/apps/details?id=com.musimec.proyectotamogante
 
 - 📫 Follow me at @NorbertoMartnAf in Twitter
 
