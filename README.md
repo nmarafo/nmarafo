@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Norberto Martín Afonso
-- 👀 I’m interested in Flutter and Dart. I develop 'Tamogante', an educational videogame at 
+- 👀 I’m interested in Flutter, Flame Engine and RiveApp. I develop 'Tamogante', an educational videogame at 
 
 - Appstore: https://apps.apple.com/es/app/tamogante/id1537266465
 
