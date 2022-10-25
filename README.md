@@ -17,11 +17,12 @@
       - [Victorina Bridoux H5P](https://nmarafo.github.io/h5pSample/)
 
 - Flutter:
+      - [Canary_QR](https://nmarafo.github.io/canary_qr/)
       - [Definitions Spinner](https://nmarafo.github.io/definition_spinner/)
       - [Servicios de Videoconferencia en EVAGD](https://nmarafo.github.io/videoconferencias_evagd/)
       - [Servicios de Videoconferencia H5P](https://nmarafo.github.io/videoconferencias/)
       - [Guía de Recursos Multimedia Gratuitos](https://nmarafo.github.io/recursos_canarias_curso/)
-      - [Clasificador Currívulo](https://nmarafo.github.io/clasificador_curriculo_lomce)
+      - [Clasificador Currículo](https://nmarafo.github.io/clasificador_curriculo_lomce)
       - [Simple Calculator](https://nmarafo.github.io/calculadora-url/)
 
 <!---
