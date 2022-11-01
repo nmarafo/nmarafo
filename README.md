@@ -9,6 +9,7 @@
 
 - Games (Flame Engine):
       - [Tamogante Demo](https://nmarafo.github.io/tamogante/)
+      - [Eyes Mouse](https://nmarafo.github.io/eyes_mouse/)
       - [Planet Scape](https://nmarafo.github.io/planet_scape/)
       - [Olympe](https://github.com/nmarafo/olympe)
 
