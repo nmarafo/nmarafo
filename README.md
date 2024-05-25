@@ -1,32 +1,32 @@
-- 👋 Hi, I’m Norberto Martín Afonso
-- 👀 I’m interested in Flutter, Flame Engine and RiveApp. I develop 'Tamogante', an educational videogame at 
+# 👋 Hi, I’m Norberto Martín Afonso
 
-- Appstore: https://apps.apple.com/es/app/tamogante/id1537266465
+## 🚀 About Me
+I’m passionate about **Flutter**, **Flame Engine**, and **RiveApp**. I specialize in developing educational video games and interactive content.
 
-- PlayStore: https://play.google.com/store/apps/details?id=com.musimec.proyectotamogante
+## 🎮 Projects
+### **Tamogante**
+An educational video game available on:
+- [App Store](https://apps.apple.com/es/app/tamogante/id1537266465)
+- [Play Store](https://play.google.com/store/apps/details?id=com.musimec.proyectotamogante)
 
-- 📫 Follow me at @NorbertoMartnAf in Twitter
+### **Games (Flame Engine)**
+- **Tamogante Demo**
+- **Eyes Mouse**
+- **Planet Scape**
+- **Olympe**
 
-- Games (Flame Engine):
-      - [Tamogante Demo](https://nmarafo.github.io/tamogante/)
-      - [Eyes Mouse](https://nmarafo.github.io/eyes_mouse/)
-      - [Planet Scape](https://nmarafo.github.io/planet_scape/)
-      - [Olympe](https://github.com/nmarafo/olympe)
+### **H5P Interactive Content**
+- **Formatos y Temas en EVAGD H5P**
+- **Victorina Bridoux H5P**
 
-- H5P:
-      - [Formatos y Temas en EVAGD H5P](https://nmarafo.github.io/Formatos-y-Temas-en-EVAGD/)
-      - [Victorina Bridoux H5P](https://nmarafo.github.io/h5pSample/)
+### **Flutter Apps**
+- **Canary_QR**
+- **Definitions Spinner**
+- **Servicios de Videoconferencia en EVAGD**
+- **Servicios de Videoconferencia H5P**
+- **Guía de Recursos Multimedia Gratuitos**
+- **Clasificador Currículo**
+- **Simple Calculator**
 
-- Flutter:
-      - [Canary_QR](https://nmarafo.github.io/canary_qr/)
-      - [Definitions Spinner](https://nmarafo.github.io/definition_spinner/)
-      - [Servicios de Videoconferencia en EVAGD](https://nmarafo.github.io/videoconferencias_evagd/)
-      - [Servicios de Videoconferencia H5P](https://nmarafo.github.io/videoconferencias/)
-      - [Guía de Recursos Multimedia Gratuitos](https://nmarafo.github.io/recursos_canarias_curso/)
-      - [Clasificador Currículo](https://nmarafo.github.io/clasificador_curriculo_lomce)
-      - [Simple Calculator](https://nmarafo.github.io/calculadora-url/)
-
-<!---
-nmarafo/nmarafo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Connect with Me
+- Follow me on Twitter: [@NorbertoMartnAf](https://twitter.com/NorbertoMartnAf)
