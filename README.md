@@ -9,6 +9,9 @@ An educational video game available on:
 - [App Store](https://apps.apple.com/es/app/tamogante/id1537266465)
 - [Play Store](https://play.google.com/store/apps/details?id=com.musimec.proyectotamogante)
 
+### **Moodle plugins**
+- [**Atto Ace Inline Assistant**](https://moodle.org/plugins/atto_aceinlineassistant)
+  
 ### **Games (Flame Engine)**
 - [**Tamogante Demo**](https://nmarafo.github.io/tamogante/)
 - [**Eyes Mouse**](https://nmarafo.github.io/eyes_mouse/)
