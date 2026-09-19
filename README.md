@@ -4,6 +4,7 @@
 > Architecting secure enterprise cloud systems, privacy-first local AI agents with WebGPU, Open Knowledge Frameworks (OKF), and interactive educational game experiences.
 
 [![GitHub Followers](https://img.shields.io/github/followers/nmarafo?style=social)](https://github.com/nmarafo)
+[![Instagram](https://img.shields.io/badge/Instagram-nmar__afo-E4405F?style=social&logo=instagram)](https://instagram.com/nmar_afo)
 [![Twitter Follow](https://img.shields.io/twitter/follow/NorbertoMartnAf?style=social)](https://twitter.com/NorbertoMartnAf)
 
 ---
@@ -14,7 +15,7 @@
 Languages:     PHP (8.2+) • Python (3.9+) • Dart • JavaScript / TypeScript
 Cloud & Sec:   Nextcloud Core & Apps • Collabora Online (CODE) / WOPI • Docker • ENS (RD 311/2022) • SSE (AES-256)
 Local AI & ML: WebGPU • @huggingface/transformers • ONNX Runtime • Gemma 4 • OKF (Open Knowledge Framework)
-Game & EdTech: Flutter • Flame Engine • Rive • Moodle LMS • Google Workspace IaC • H5P
+Game & EdTech: Flutter • Flame Engine • Rive • Moodle LMS • Google Workspace IaC
 ```
 
 ---
@@ -77,22 +78,16 @@ Game & EdTech: Flutter • Flame Engine • Rive • Moodle LMS • Google Works
 
 ---
 
-### 🔌 LMS & Educational Platform Integrations
+### 🔌 LMS Integrations & Extensions
 
 * **[Moodle Atto Ace Inline Assistant](https://github.com/nmarafo/moodle-atto_aceinlineassistant)**  
   Official plugin available on the [Moodle Plugins Directory](https://moodle.org/plugins/atto_aceinlineassistant), embedding the Ace code editor directly into Moodle's Atto rich-text editor for seamless syntax highlighting and live code editing.
-
-* **Interactive Educational Web Tools (Flutter & H5P)**:
-  * [📱 Canary QR](https://nmarafo.github.io/canary_qr/) — Educational QR generator and scanner.
-  * [🎡 Definitions Spinner](https://nmarafo.github.io/definition_spinner/) — Interactive classroom vocabulary spinner.
-  * [📹 Videoconferencias en EVAGD](https://nmarafo.github.io/videoconferencias_evagd/) — Video conference integration guide for virtual learning environments.
-  * [📚 Guía de Recursos Multimedia](https://nmarafo.github.io/recursos_canarias_curso/) — Free multimedia resources guide for educators.
-  * [📑 Clasificador Currículo](https://nmarafo.github.io/clasificador_curriculo_lomce) — Interactive curriculum classifier.
 
 ---
 
 ## 📫 Connect with Me
 
 * 💼 **GitHub**: [@nmarafo](https://github.com/nmarafo)
+* 📸 **Instagram**: [@nmar_afo](https://instagram.com/nmar_afo)
 * 🐦 **Twitter / X**: [@NorbertoMartnAf](https://twitter.com/NorbertoMartnAf)
 * 📧 **Email**: [normaafo@gmail.com](mailto:normaafo@gmail.com)
