@@ -43,6 +43,16 @@ Game & EdTech: Flutter • Flame Engine • Rive • Moodle LMS • Google Works
   [![Coverage](https://img.shields.io/badge/Cobertura-17_CCAA_+_Ceuta_y_Melilla-green.svg)](https://github.com/nmarafo/OpenDidactia)  
   Structured Open Knowledge Framework (OKF) and modular curricular schemas designed for automated, AI-assisted generation of **Didactic Planning (*Programaciones Didácticas*)** and **Learning Situations (*Situaciones de Aprendizaje*)** under LOMLOE across all **17 Autonomous Communities and 2 Autonomous Cities**. Built with native support for Universal Design for Learning (UDL / DUA), David Merrill's First Principles of Instruction, active methodologies (PBL, Service Learning, Design Thinking), and Harvard Project Zero visible thinking routines.
 
+* **[BOSS VE-22 JSON Builder & 1:1 Emulator (OKF)](https://github.com/nmarafo/boss-ve22-json-builder)**  
+  [![Standard: OKF](https://img.shields.io/badge/Standard-OKF%20Vocal%20Engineering-blue.svg)](https://github.com/nmarafo/boss-ve22-json-builder)
+  [![Web App](https://img.shields.io/badge/Web%20App-GitHub%20Pages-red.svg?logo=github)](https://nmarafo.github.io/boss-ve22-json-builder/)
+  [![Google Notebook](https://img.shields.io/badge/Google%20Notebook-AI%20Generator-4285F4.svg?logo=google)](https://notebook.google.com/notebook/a62fa5ec-8fee-4c48-a538-812cf958b7e4)
+  [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/deed.es)  
+  Comprehensive vocal engineering ecosystem and Open Knowledge Framework (OKF) standard for the **BOSS VE-22 Vocal Performer**:
+  * **Interactive 1:1 Web Emulator**: Full-featured, responsive browser hardware replica powered by the Web Audio API with real-time signal processing, interactive pedal controls, and drag-and-drop preset loading on **[GitHub Pages](https://nmarafo.github.io/boss-ve22-json-builder/)**.
+  * **OKF AI Preset Generation & Google Notebook**: Formal JSON Schema specification and Master Prompt enabling LLMs and an official **[Google Notebook](https://notebook.google.com/notebook/a62fa5ec-8fee-4c48-a538-812cf958b7e4)** to transform musical requests (song + vocal role) into validated pedal configurations with 7-step guided visual tutorials (`guideSteps` with spotlight halos).
+  * **Multi-Role & Genre Coverage**: Intelligent vocal presets tailored across genres for Lead Vocals, Multi-part Harmonies, ADT Double-Tracking, Hard Auto-Pitch (T-Tune), Looper arrangements, and Lo-Fi/Distortion FX.
+
 * **[open-lex-edu](https://github.com/nmarafo/open-lex-edu)**  
   [![Standard: OKF](https://img.shields.io/badge/Standard-OKF%20Legislation-purple.svg)](https://github.com/nmarafo/open-lex-edu)  
   Standardized open repository transcribing and structuring Spanish national and regional educational legislation into YAML frontmatter and Markdown schemas, optimized for direct ingestion by autonomous LLM agents and legal RAG pipelines.
